@@ -8,7 +8,9 @@ public class Student {
         System.out.println("My Course is: " + course);
         System.out.println("My Roll Number is: " + rollno);
         System.out.println("=======================");
-        System.out.println("THANK YOU");
         System.out.println("FOR YOUR HELP!!!");
+        System.out.println("THANK YOU");
+        System.out.println("THANK YOU");
+        System.out.println("Good Morning");
     }
 }
